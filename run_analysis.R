@@ -58,5 +58,7 @@ require(reshape2)
 melted <- melt(extracted, id.vars=c("Activity", "Subject"), variable.name="Variable")
 grouped <- group_by(melted, Activity, Subject, Variable)
 result <- summarise(grouped, Mean=mean(value))
+# Uncomment this if we want wide data
+#result <- dcast(melted, Activity + Subject ~ Variable, mean)
 View(result)
 write.table(result, file="result.txt", row.names=F)
