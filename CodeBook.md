@@ -2,18 +2,31 @@
 ## Coursera: Getting and Cleaning Data
 
 Signal names use camelCase parts:
+
 *"time" = time-domain signal
+
 *"freq" = frequency-domain signal
+
 *"Body" = body acceleration
+
 *"Gravity" = gravity acceleration
+
 *"Acc" = accelerometer signal
+
 *"Gyro" = gyroscope signal
+
 *"Jerk" = jerk signal
+
 *"Mag" = magnitude
+
 *"Std" = standard deviation
+
 *"Mean" = mean/average
+
 *"X"/"Y"/"Z" = which of the 3-axes of movement
+
 *"Activity" = labeled activity being performed
+
 *"Subject" = subject identifier
 
 See features_info.txt for more info, reproduced below.
