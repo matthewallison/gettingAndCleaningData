@@ -3,31 +3,31 @@
 
 Signal names use camelCase parts:
 
-*"time" = time-domain signal
+* "time" = time-domain signal
 
-*"freq" = frequency-domain signal
+* "freq" = frequency-domain signal
 
-*"Body" = body acceleration
+* "Body" = body acceleration
 
-*"Gravity" = gravity acceleration
+* "Gravity" = gravity acceleration
 
-*"Acc" = accelerometer signal
+* "Acc" = accelerometer signal
 
-*"Gyro" = gyroscope signal
+* "Gyro" = gyroscope signal
 
-*"Jerk" = jerk signal
+* "Jerk" = jerk signal
 
-*"Mag" = magnitude
+* "Mag" = magnitude
 
-*"Std" = standard deviation
+* "Std" = standard deviation
 
-*"Mean" = mean/average
+* "Mean" = mean/average
 
-*"X"/"Y"/"Z" = which of the 3-axes of movement
+* "X"/"Y"/"Z" = which of the 3-axes of movement
 
-*"Activity" = labeled activity being performed
+* "Activity" = labeled activity being performed
 
-*"Subject" = subject identifier
+* "Subject" = subject identifier
 
 See features_info.txt for more info, reproduced below.
 
