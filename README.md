@@ -4,8 +4,8 @@
 
 Required to submit: 
 1. a [tidy data set](../master/result.txt) as described below, 
-2. a [link to a Github repository](https://github.com/matthewallison/gettingAndCleaningData/blob/master/result.txt) with your [script](../blob/master/run_analysis.R) for performing the analysis, and 
-3. a [code book](../blob/master/CodeBook.md) that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
+2. a [link to a Github repository](https://github.com/matthewallison/gettingAndCleaningData) with your [script](../master/run_analysis.R) for performing the analysis, and 
+3. a [code book](../master/CodeBook.md) that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
 
 
 Data for the project can be obtained [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
